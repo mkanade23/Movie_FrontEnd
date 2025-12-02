@@ -1,0 +1,12 @@
+html, body, #root {
+    height: 100%;
+    margin: 0;
+    font-family: Inter, Roboto, Arial, sans-serif;
+    background: #f3f6fb;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  * { box-sizing: border-box; }
+  button:disabled { opacity: 0.7; cursor: not-allowed; }
+  
